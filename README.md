@@ -4,5 +4,6 @@ Cel is a python library for defining and running cellular automata on GPUs or TP
 
 ### Dependencies
 
--   Numpy
--   JAX
+- Python ^3.6
+- Numpy (`pip3 install numpy`)
+- JAX (read instructions from https://github.com/google/jax)

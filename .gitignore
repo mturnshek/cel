@@ -1,0 +1,6 @@
+# compiled / cached py
+__pycache__/
+*.py[cod]
+
+# mypy
+.mypy_cache/
